@@ -1,0 +1,13 @@
+//リモート開発の設定を記述
+{
+	"name": "Python Basic Project",
+	"additionalProperties": "docker-compose.yml",
+	"service": "python",
+	"workspaceFolder": "/tmp/work",
+	"extensions": [
+		"ms-python.python"
+	],
+	"settings": {
+		"editor.tabSize": 2,
+	},
+}
