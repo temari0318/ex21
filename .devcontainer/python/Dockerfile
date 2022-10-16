@@ -7,4 +7,3 @@ COPY requirements.txt ${PWD}
 
 # python install
 RUN pip install -r requirements.txt
-
