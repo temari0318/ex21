@@ -8,7 +8,10 @@
 		"ms-python.python",
 		"njpwerner.autodocstring",
 		"janisdd.vscode-edit-csv",
-		"oderwat.indent-rainbow"
+		"oderwat.indent-rainbow",
+		"donjayamanne.githistory",
+		"2gua.rainbow-brackets",
+		"alexcvzz.vscode-sqlite"
 	],
 	"settings": {
 		"editor.tabSize": 2,
