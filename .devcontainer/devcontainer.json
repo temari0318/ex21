@@ -1,11 +1,14 @@
 //リモート開発の設定を記述
 {
 	"name": "Python Basic Project",
-	"additionalProperties": "docker-compose.yml",
+	"dockerComposeFile": "docker-compose.yml",
 	"service": "python",
 	"workspaceFolder": "/tmp/work",
 	"extensions": [
-		"ms-python.python"
+		"ms-python.python",
+		"njpwerner.autodocstring",
+		"janisdd.vscode-edit-csv",
+		"oderwat.indent-rainbow"
 	],
 	"settings": {
 		"editor.tabSize": 2,
